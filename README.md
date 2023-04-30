@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=header"/>
 
-<!--
-**NubiaPrimo/NubiaPrimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Núbia+:%29)](https://git.io/typing-svg)
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+<img align-itens="center" alt="Otavio-animacao" alt=" " height="100" 
+       src="http://www.slconsultoriapublica.com.br/site/images/informacoes.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NúbiaPrimo&theme=gotham)
+
